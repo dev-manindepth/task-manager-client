@@ -1,5 +1,35 @@
 # React + TypeScript + Vite
 
+# Project Name
+
+This is a documentation for the project task-manager-client.
+
+## Setup Instructions
+
+To set up the project, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/dev-manindepth/task-manager-client
+   ```
+
+2. Navigate into the project directory:
+
+   ```bash
+   cd task-manager-client
+   ```
+
+3. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+4. To Start the server
+```bash
+  npm run dev
+```
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
